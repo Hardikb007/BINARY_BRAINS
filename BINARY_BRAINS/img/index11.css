@@ -1,0 +1,130 @@
+.rectangle,
+.rectangle1 {
+  position: absolute;
+  width: 1200px;
+}
+.rectangle {
+  top: 0;
+  left: 0;
+  box-shadow: 0 2px 3px rgba(0, 0, 0, 0.3);
+  height: 95px;
+}
+.rectangle1 {
+  top: 718px;
+  left: -2px;
+  background-color: var(--color-darkslategray);
+  height: 169px;
+}
+.rectangle2 {
+  position: absolute;
+  top: 810px;
+  left: 556px;
+  border-radius: var(--br-8xs);
+  background-color: #f52e45;
+  width: 88px;
+  height: 35px;
+}
+.frame-icon {
+  position: absolute;
+  top: 822px;
+  left: 573px;
+  width: 14px;
+  height: 14px;
+  overflow: hidden;
+}
+.profile-created-succussfully {
+  margin: 0;
+}
+.profile-created-succussfully-container,
+.we-will-notify-container {
+  position: absolute;
+  top: 97px;
+  left: -76px;
+  font-size: 92.38px;
+  font-family: var(--font-nats);
+  color: var(--color-darkslategray);
+  display: inline-block;
+  width: 1311px;
+  height: 108px;
+}
+.we-will-notify-container {
+  top: 212px;
+  left: 246px;
+  font-size: 46px;
+  font-family: var(--font-neucha);
+  width: 653px;
+  height: 59px;
+}
+.need-help {
+  top: 729px;
+  left: 550px;
+  font-size: var(--font-size-xl);
+  text-align: left;
+  display: inline-block;
+  width: 101px;
+}
+.image,
+.need-help,
+.quit {
+  position: absolute;
+}
+.quit {
+  top: 820px;
+  left: 599px;
+  display: inline-block;
+  width: 29px;
+}
+.image {
+  top: 19px;
+  left: 46px;
+  width: 111px;
+  height: 55px;
+  overflow: hidden;
+}
+.letsgopets {
+  position: absolute;
+  top: 32px;
+  left: -1px;
+  font-size: 49px;
+  line-height: 60px;
+  font-family: var(--font-neucha);
+  color: var(--color-black);
+  display: inline-block;
+  width: 391px;
+  height: 32px;
+}
+.pet-1-icon {
+  position: absolute;
+  top: 16px;
+  left: 24px;
+  width: 65px;
+  height: 63px;
+  object-fit: cover;
+}
+.contact-us-on {
+  position: absolute;
+  top: 767px;
+  left: 417px;
+  display: inline-block;
+  width: 361px;
+  height: 30px;
+}
+.tick-mark-1-icon {
+  position: absolute;
+  top: 328px;
+  left: 477px;
+  width: 201px;
+  height: 201px;
+  object-fit: cover;
+}
+.frame {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 887px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  font-family: var(--font-lato);
+}

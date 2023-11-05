@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-lato: Lato;
+    --font-livvic: Livvic;
+    --font-ubuntu-condensed: "Ubuntu Condensed";
+    --font-neucha: Neucha;
+  
+    /* font sizes */
+    --font-size-mini: 15px;
+    --font-size-27xl: 46px;
+    --font-size-sm: 14px;
+  
+    /* Colors */
+    --color-white: #fff;
+    --color-gainsboro: #d9d9d9;
+    --color-black: #000;
+    --color-darkslategray: #425168;
+  
+    /* Border radiuses */
+    --br-8xs: 5px;
+  }
+  

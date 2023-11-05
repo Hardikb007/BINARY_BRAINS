@@ -1,0 +1,895 @@
+.rectangle,
+.rectangle1 {
+  position: absolute;
+  top: 51px;
+  left: 0;
+  background-color: var(--color-gray-200);
+  width: 1200px;
+  height: 1px;
+}
+.rectangle1 {
+  top: 11px;
+  left: 193px;
+  background-color: var(--color-white);
+  height: 51px;
+}
+.back {
+  position: absolute;
+  top: 31px;
+  left: 1093px;
+  font-size: var(--font-size-base);
+  line-height: 19.2px;
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  width: 47px;
+  height: 20px;
+}
+.rectangle2,
+.rectangle3,
+.rectangle4 {
+  position: absolute;
+  top: 0;
+  left: 940px;
+  width: 160px;
+  height: 50px;
+}
+.rectangle3,
+.rectangle4 {
+  left: 1100px;
+  width: 100px;
+}
+.rectangle4 {
+  top: 370.4px;
+  left: 455px;
+  background-color: var(--color-gainsboro-100);
+  width: 1140px;
+  height: 1px;
+}
+.rectangle6,
+.rectangle7,
+.rectangle8 {
+  position: absolute;
+  top: 156px;
+  left: 455px;
+  width: 1140px;
+  height: 214px;
+}
+.rectangle7,
+.rectangle8 {
+  top: 202px;
+  left: 445px;
+  height: 198px;
+}
+.rectangle8 {
+  top: 423px;
+  left: 575px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-darkgray);
+  box-sizing: border-box;
+  width: 44px;
+  height: 44px;
+}
+.aap-icon-facebook {
+  position: absolute;
+  top: 433px;
+  left: 586px;
+  width: 21px;
+  height: 21px;
+  overflow: hidden;
+}
+.rectangle9 {
+  position: absolute;
+  top: 423px;
+  left: 629px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-darkgray);
+  box-sizing: border-box;
+  width: 44px;
+  height: 44px;
+}
+.aap-icon-twitter {
+  position: absolute;
+  top: 434px;
+  left: 640px;
+  width: 21px;
+  height: 21px;
+  overflow: hidden;
+}
+.rectangle10 {
+  position: absolute;
+  top: 423px;
+  left: 683px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-darkgray);
+  box-sizing: border-box;
+  width: 44px;
+  height: 44px;
+}
+.aap-icon-pinterest {
+  position: absolute;
+  top: 435px;
+  left: 695px;
+  width: 20px;
+  height: 21px;
+  overflow: hidden;
+}
+.rectangle11 {
+  position: absolute;
+  top: 423px;
+  left: 737px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-darkgray);
+  box-sizing: border-box;
+  width: 44px;
+  height: 44px;
+}
+.frame-icon {
+  position: absolute;
+  top: 435px;
+  left: 749px;
+  width: 20px;
+  height: 21px;
+  overflow: hidden;
+}
+.rectangle12 {
+  position: absolute;
+  top: 423px;
+  left: 791px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-darkgray);
+  box-sizing: border-box;
+  width: 44px;
+  height: 44px;
+}
+.capa-1-icon {
+  position: absolute;
+  top: 435px;
+  left: 803px;
+  width: 20px;
+  height: 21px;
+  overflow: hidden;
+}
+.rectangle13,
+.rectangle14 {
+  position: absolute;
+  width: 1140px;
+}
+.rectangle13 {
+  top: 797px;
+  left: 48px;
+  background-color: #f9f9f9;
+  height: 458px;
+}
+.rectangle14 {
+  top: 767px;
+  left: 54px;
+  border-radius: var(--br-7xs) var(--br-7xs) 0 0;
+  background-color: var(--color-mediumseagreen);
+  height: 10px;
+}
+.rectangle15 {
+  position: absolute;
+  top: 949px;
+  left: 94px;
+  border-radius: var(--br-7xs);
+  border: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  width: 1060px;
+  height: 236px;
+}
+.breed,
+.facts-about-me {
+  left: 455px;
+  font-family: var(--font-arial);
+  color: var(--color-dimgray-300);
+}
+.facts-about-me {
+  position: absolute;
+  top: 202px;
+  font-size: var(--font-size-7xl);
+  line-height: 39px;
+  display: inline-block;
+  width: 193px;
+}
+.breed {
+  top: 251px;
+  font-size: var(--font-size-xl);
+  line-height: 26px;
+  width: 57px;
+}
+.age,
+.beagle,
+.breed {
+  position: absolute;
+  display: inline-block;
+}
+.beagle {
+  top: 251px;
+  left: 567px;
+  font-size: var(--font-size-lgi);
+  line-height: 26px;
+  font-family: var(--font-arial);
+  color: var(--color-dimgray-300);
+  width: 62px;
+}
+.age {
+  top: 293px;
+  left: 455px;
+  font-size: var(--font-size-xl);
+  width: 38px;
+}
+.adulthood,
+.age,
+.gender,
+.male {
+  line-height: 26px;
+  font-family: var(--font-arial);
+  color: var(--color-dimgray-300);
+}
+.adulthood {
+  position: absolute;
+  top: 293px;
+  left: 567px;
+  font-size: var(--font-size-lgi);
+  text-transform: capitalize;
+  display: inline-block;
+  width: 90px;
+}
+.gender,
+.male {
+  top: 332px;
+}
+.gender {
+  position: absolute;
+  left: 446px;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  width: 70px;
+}
+.male {
+  left: 578px;
+  font-size: var(--font-size-lgi);
+  text-transform: capitalize;
+  width: 43px;
+}
+.adopt-hugjee,
+.male,
+.my-story {
+  position: absolute;
+  display: inline-block;
+}
+.my-story {
+  top: 426px;
+  left: 445px;
+  font-size: var(--font-size-7xl);
+  line-height: 39px;
+  font-family: var(--font-arial);
+  color: var(--color-dimgray-300);
+  width: 110px;
+}
+.adopt-hugjee {
+  top: 62px;
+  left: 489px;
+  font-size: 45px;
+  line-height: 77.1px;
+  font-family: var(--font-old-standard-tt);
+  color: #3f3839;
+  text-align: center;
+  width: 388.9px;
+  height: 74px;
+}
+.additional-adoption-info,
+.due-to-cramped {
+  position: absolute;
+  top: 487px;
+  left: 445px;
+  font-size: var(--font-size-lgi);
+  font-family: var(--font-open-sans);
+  color: var(--color-dimgray-200);
+  display: inline-block;
+  width: 753px;
+}
+.additional-adoption-info {
+  top: 548px;
+  font-size: var(--font-size-7xl);
+  line-height: 39px;
+  font-family: var(--font-arial);
+  color: var(--color-dimgray-300);
+  width: 302px;
+}
+.friendly-well-behaved {
+  position: absolute;
+  top: 608px;
+  left: 445px;
+  font-size: var(--font-size-lgi);
+  font-family: var(--font-open-sans);
+  color: var(--color-dimgray-200);
+  display: inline-block;
+  width: 390px;
+}
+.only-make-any,
+.please-do-not,
+.please-report-to,
+.thepetnest-does-not {
+  position: absolute;
+  top: 817px;
+  left: 94px;
+  font-family: var(--font-open-sans);
+  color: var(--color-red);
+  display: inline-block;
+  width: 503px;
+}
+.only-make-any,
+.please-do-not,
+.please-report-to {
+  top: 850px;
+  width: 609px;
+}
+.only-make-any,
+.please-report-to {
+  top: 883px;
+  width: 456px;
+}
+.please-report-to {
+  top: 916px;
+  width: 688px;
+}
+.contact-info {
+  top: 980px;
+  left: 125px;
+  font-size: var(--font-size-13xl);
+  letter-spacing: 0.5px;
+  line-height: 48px;
+  font-family: var(--font-arial);
+  color: var(--color-dimgray-300);
+  width: 181px;
+}
+.address,
+.contact-info,
+.haryana-rohtak,
+.name {
+  position: absolute;
+  display: inline-block;
+}
+.name {
+  top: 1062px;
+  left: 125px;
+  font-size: var(--font-size-xl);
+  line-height: 26px;
+  font-family: var(--font-arial);
+  color: var(--color-dimgray-300);
+  width: 54px;
+}
+.address,
+.haryana-rohtak {
+  top: 1108px;
+}
+.address {
+  left: 125px;
+  font-size: var(--font-size-xl);
+  line-height: 26px;
+  font-family: var(--font-arial);
+  color: var(--color-dimgray-300);
+  width: 80px;
+}
+.haryana-rohtak {
+  left: 215px;
+  width: 196px;
+}
+.haryana-rohtak,
+.madhu,
+.phone {
+  font-size: var(--font-size-xl);
+  line-height: 26px;
+  font-family: var(--font-arial);
+  color: var(--color-dimgray-300);
+}
+.madhu {
+  position: absolute;
+  top: 1062px;
+  left: 213px;
+  display: inline-block;
+  width: 196px;
+}
+.phone {
+  top: 1058px;
+  left: 624px;
+  width: 61px;
+}
+.about-us,
+.blog,
+.div,
+.phone {
+  position: absolute;
+  display: inline-block;
+}
+.div {
+  top: 1058px;
+  left: 739px;
+  font-size: var(--font-size-xl);
+  line-height: 26px;
+  font-family: var(--font-arial);
+  color: #0557b9;
+  width: 162px;
+}
+.about-us,
+.blog {
+  top: 2082px;
+  left: 15px;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-open-sans);
+  color: var(--color-white);
+  width: 26px;
+}
+.about-us {
+  top: 2109px;
+  width: 53px;
+}
+.image {
+  position: absolute;
+  top: 34px;
+  left: 44px;
+  width: 111px;
+  height: 55px;
+  overflow: hidden;
+}
+.letsgopets {
+  position: absolute;
+  top: 24px;
+  left: -23px;
+  font-size: var(--font-size-30xl);
+  line-height: 60px;
+  font-family: var(--font-neucha);
+  color: var(--color-black);
+  text-align: center;
+  display: inline-block;
+  width: 391px;
+  height: 32px;
+}
+.pet-1-icon {
+  position: absolute;
+  top: 3px;
+  left: 0;
+  width: 65px;
+  height: 63px;
+  object-fit: cover;
+}
+.rectangle18 {
+  position: absolute;
+  top: 99px;
+  left: 20px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-darkslategray-100);
+  border: 2px solid var(--color-darkslategray-100);
+  box-sizing: border-box;
+  width: 78px;
+  height: 41px;
+}
+.back1,
+.div1 {
+  position: absolute;
+  top: 108px;
+  font-size: var(--font-size-base);
+  line-height: 19.2px;
+  color: var(--color-white);
+  text-align: center;
+}
+.back1 {
+  left: 40px;
+  display: inline-block;
+  width: 47px;
+  height: 20px;
+}
+.div1 {
+  left: 28px;
+  opacity: 0.9;
+  cursor: pointer;
+}
+.image-60-icon {
+  position: absolute;
+  top: 172px;
+  left: 55px;
+  border-radius: 10px;
+  width: 360px;
+  height: 539px;
+  object-fit: cover;
+}
+.image-icon,
+.rectangle19 {
+  position: absolute;
+  width: 1200px;
+}
+.image-icon {
+  top: 1767px;
+  left: 0;
+  height: 35px;
+  overflow: hidden;
+}
+.rectangle19 {
+  top: 1802px;
+  left: -58px;
+  background-color: var(--color-mediumseagreen);
+  height: 55px;
+}
+.rectangle20 {
+  top: 2090.6px;
+  background-color: var(--color-white);
+  height: 1px;
+}
+.rectangle20,
+.rectangle21,
+.rectangle22 {
+  position: absolute;
+  left: -58px;
+  width: 1200px;
+}
+.rectangle21 {
+  top: 2093.6px;
+  background-color: var(--color-white);
+  height: 1px;
+}
+.rectangle22 {
+  top: 2092px;
+  height: 2px;
+}
+.about,
+.about-us1,
+.member-stories {
+  position: absolute;
+  left: 2px;
+  line-height: 19.6px;
+  display: inline-block;
+}
+.about {
+  top: 1871px;
+  text-transform: uppercase;
+  color: var(--color-white);
+  width: 51px;
+}
+.about-us1,
+.member-stories {
+  top: 1897px;
+  width: 60px;
+}
+.member-stories {
+  left: 218px;
+  width: 99px;
+}
+.become-an-ambassador,
+.gift-vouchers,
+.press-media,
+.refer-a-friend,
+.shop {
+  position: absolute;
+  top: 1922px;
+  left: 2px;
+  line-height: 19.6px;
+  display: inline-block;
+  width: 32px;
+}
+.become-an-ambassador,
+.gift-vouchers,
+.press-media,
+.refer-a-friend {
+  left: 218px;
+  width: 88px;
+}
+.become-an-ambassador,
+.press-media,
+.refer-a-friend {
+  top: 1947px;
+  left: 2px;
+  width: 87px;
+}
+.become-an-ambassador,
+.press-media {
+  left: 218px;
+  width: 90px;
+}
+.become-an-ambassador {
+  top: 1972px;
+  left: 2px;
+  width: 147px;
+}
+.careers {
+  top: 1972px;
+  left: 218px;
+  width: 50px;
+}
+.careers,
+.how-it-works,
+.learn-more,
+.privacy-policy {
+  position: absolute;
+  line-height: 19.6px;
+  display: inline-block;
+}
+.privacy-policy {
+  top: 1997px;
+  left: 2px;
+  width: 85px;
+}
+.how-it-works,
+.learn-more {
+  left: 434px;
+}
+.learn-more {
+  top: 1871px;
+  font-size: var(--font-size-smi);
+  text-transform: uppercase;
+  color: var(--color-white);
+  width: 88px;
+}
+.how-it-works {
+  top: 1897px;
+  width: 85px;
+}
+.iiit-allahbad-prayagraj {
+  margin: 0;
+}
+.address-iiit-allahbad-container,
+.membership {
+  position: absolute;
+  line-height: 19.6px;
+  display: inline-block;
+}
+.address-iiit-allahbad-container {
+  top: 1897px;
+  left: 612px;
+  white-space: pre-wrap;
+  width: 85px;
+}
+.membership {
+  top: 1922px;
+  left: 434px;
+  width: 78px;
+}
+.blog1 {
+  top: 1947px;
+  left: 434px;
+  width: 28px;
+}
+.blog1,
+.letsgopets2023,
+.this-site-uses,
+.top-locations {
+  position: absolute;
+  line-height: 19.6px;
+  display: inline-block;
+}
+.top-locations {
+  top: 1970px;
+  left: 434px;
+  width: 85px;
+}
+.letsgopets2023,
+.this-site-uses {
+  color: var(--color-whitesmoke-300);
+  text-align: center;
+}
+.letsgopets2023 {
+  top: 2103px;
+  left: 464px;
+  font-size: var(--font-size-smi);
+  width: 156px;
+}
+.this-site-uses {
+  top: 2122px;
+  left: 473px;
+  width: 139px;
+}
+.rectangle23,
+.rectangle24 {
+  position: absolute;
+  top: 1797px;
+  left: 0;
+  background-color: var(--color-mediumseagreen);
+  width: 1200px;
+  height: 55px;
+}
+.rectangle24 {
+  top: 1852px;
+  background-color: var(--color-darkslategray-100);
+  height: 295px;
+}
+.rectangle25 {
+  top: 2085.6px;
+  background-color: var(--color-white);
+  height: 1px;
+}
+.rectangle25,
+.rectangle26,
+.rectangle27 {
+  position: absolute;
+  left: 0;
+  width: 1200px;
+}
+.rectangle26 {
+  top: 2088.6px;
+  background-color: var(--color-white);
+  height: 1px;
+}
+.rectangle27 {
+  top: 2087px;
+  height: 2px;
+}
+.about-us2,
+.about1 {
+  position: absolute;
+  left: 60px;
+  line-height: 19.6px;
+  display: inline-block;
+}
+.about1 {
+  top: 1866px;
+  text-transform: uppercase;
+  color: var(--color-white);
+  width: 51px;
+}
+.about-us2 {
+  top: 1892px;
+  width: 60px;
+}
+.gift-vouchers1,
+.member-stories1,
+.press-media1,
+.refer-a-friend1,
+.shop1 {
+  position: absolute;
+  top: 1892px;
+  left: 276px;
+  line-height: 19.6px;
+  display: inline-block;
+  width: 99px;
+}
+.gift-vouchers1,
+.press-media1,
+.refer-a-friend1,
+.shop1 {
+  top: 1917px;
+  left: 60px;
+  width: 32px;
+}
+.gift-vouchers1,
+.press-media1,
+.refer-a-friend1 {
+  left: 276px;
+  width: 88px;
+}
+.press-media1,
+.refer-a-friend1 {
+  top: 1942px;
+  left: 60px;
+  width: 87px;
+}
+.press-media1 {
+  left: 276px;
+  width: 90px;
+}
+.become-an-ambassador1,
+.careers1,
+.learn-more1,
+.privacy-policy1 {
+  position: absolute;
+  top: 1967px;
+  left: 60px;
+  line-height: 19.6px;
+  display: inline-block;
+  width: 147px;
+}
+.careers1,
+.learn-more1,
+.privacy-policy1 {
+  left: 276px;
+  width: 50px;
+}
+.learn-more1,
+.privacy-policy1 {
+  top: 1992px;
+  left: 60px;
+  width: 85px;
+}
+.learn-more1 {
+  top: 1866px;
+  left: 492px;
+  font-size: var(--font-size-smi);
+  text-transform: uppercase;
+  color: var(--color-white);
+  width: 88px;
+}
+.how-it-works1 {
+  top: 1892px;
+  left: 492px;
+  width: 85px;
+}
+.address-iiit-allahbad-container1,
+.how-it-works1,
+.membership1 {
+  position: absolute;
+  line-height: 19.6px;
+  display: inline-block;
+}
+.address-iiit-allahbad-container1 {
+  top: 1892px;
+  left: 670px;
+  white-space: pre-wrap;
+  width: 85px;
+}
+.membership1 {
+  top: 1917px;
+  left: 492px;
+  width: 78px;
+}
+.blog2 {
+  top: 1942px;
+  left: 492px;
+  width: 28px;
+}
+.blog2,
+.letsgopets20231,
+.this-site-uses1,
+.top-locations1 {
+  position: absolute;
+  line-height: 19.6px;
+  display: inline-block;
+}
+.top-locations1 {
+  top: 1965px;
+  left: 492px;
+  width: 85px;
+}
+.letsgopets20231,
+.this-site-uses1 {
+  color: var(--color-whitesmoke-300);
+  text-align: center;
+}
+.letsgopets20231 {
+  top: 2098px;
+  left: 522px;
+  font-size: var(--font-size-smi);
+  width: 156px;
+}
+.this-site-uses1 {
+  top: 2117px;
+  left: 531px;
+  width: 139px;
+}
+.rectangle28 {
+  position: absolute;
+  top: 1483px;
+  left: 564px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-crimson);
+  width: 88px;
+  height: 35px;
+}
+.quit {
+  position: absolute;
+  top: 1492px;
+  left: 597px;
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  width: 29px;
+  cursor: pointer;
+}
+.frame-icon1 {
+  position: absolute;
+  top: 1495px;
+  left: 577px;
+  width: 14px;
+  height: 14px;
+  overflow: hidden;
+}
+.frame {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 2147px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-whitesmoke-200);
+  font-family: var(--font-lato);
+}

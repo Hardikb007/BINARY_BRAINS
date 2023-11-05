@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-lato: Lato;
+    --font-livvic: Livvic;
+    --font-ubuntu-condensed: "Ubuntu Condensed";
+    --font-neucha: Neucha;
+    --font-actor: Actor;
+    --font-underdog: Underdog;
+  
+    /* font sizes */
+    --font-size-6xl: 25px;
+    --font-size-mini: 15px;
+    --font-size-2xl: 21px;
+    --font-size-27xl: 46px;
+    --font-size-sm: 14px;
+    --font-size-30xl: 49px;
+    --font-size-xl: 20px;
+  
+    /* Colors */
+    --color-white: #fff;
+    --color-dodgerblue-100: #226dce;
+    --color-gainsboro: #d9d9d9;
+    --color-black: #000;
+    --color-seagreen: #32a679;
+    --color-darkslategray: #425168;
+    --color-crimson: #f52e45;
+    --color-aliceblue: #ebf1fa;
+    --color-mediumseagreen-100: #00c78c;
+    --color-mediumseagreen-200: #00c68c;
+  
+    /* Border radiuses */
+    --br-8xs: 5px;
+  }
+  

@@ -9,34 +9,40 @@ body {
     --font-neucha: Neucha;
     --font-roboto: Roboto;
     --font-abel: Abel;
+    --font-livvic: Livvic;
+    --font-ubuntu-condensed: "Ubuntu Condensed";
+    --font-actor: Actor;
+    --font-underdog: Underdog;
   
     /* font sizes */
+    --font-size-8xl: 27px;
+    --font-size-21xl: 40px;
     --font-size-sm: 14px;
     --font-size-xl: 20px;
     --font-size-30xl: 49px;
+    --font-size-mini: 15px;
     --font-size-base: 16px;
     --font-size-xl-8: 20.8px;
-    --font-size-smi: 13px;
-    --font-size-11xl: 30px;
-    --font-size-13xl: 32px;
-    --font-size-12xl: 31px;
-    --font-size-17xl: 36px;
+    --font-size-2xl: 21px;
     --font-size-5xl: 24px;
-    --font-size-16xl: 35px;
+    --font-size-27xl: 46px;
     --font-size-lg: 18px;
-    --font-size-mid: 17px;
-    --font-size-10xl: 29px;
+    --font-size-6xl: 25px;
   
     /* Colors */
     --color-white: #fff;
-    --color-darkslategray: #425168;
     --color-black: #000;
+    --color-dimgray-100: #555a59;
+    --color-gainsboro: #d9d9d9;
+    --color-crimson: #f52e45;
     --color-gray-100: rgba(255, 255, 255, 0.08);
-    --color-dimgray: #555a59;
-    --color-whitesmoke-100: #eef5f3;
-    --color-whitesmoke-200: rgba(244, 244, 244, 0.8);
-    --color-whitesmoke-300: rgba(244, 244, 244, 0.6);
-    --color-mediumseagreen: #00c78c;
+    --color-whitesmoke: #eef5f3;
+    --color-darkslategray: #425168;
+    --color-seagreen: #32a679;
+    --color-aliceblue: #ebf1fa;
+    --color-dodgerblue-100: #226dce;
+    --color-mediumseagreen-100: #00c78c;
+    --color-mediumseagreen-200: #00c68c;
   
     /* Border radiuses */
     --br-8xs: 5px;

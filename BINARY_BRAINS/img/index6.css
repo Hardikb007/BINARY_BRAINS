@@ -1,0 +1,195 @@
+.rectangle,
+.rectangle1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 0 2px 3px rgba(0, 0, 0, 0.3);
+  width: 1200px;
+  height: 95px;
+}
+.rectangle1 {
+  top: 248px;
+  left: 313px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-aliceblue);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.18);
+  width: 540px;
+  height: 454px;
+}
+
+.rectangle2,
+.rectangle3 {
+  position: absolute;
+  top: 718px;
+  left: -2px;
+  background-color: var(--color-darkslategray);
+  width: 1200px;
+  height: 169px;
+}
+.rectangle3 {
+  top: 810px;
+  left: 556px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-crimson);
+  width: 88px;
+  height: 35px;
+  cursor: pointer;
+}
+.frame-icon {
+  position: absolute;
+  top: 822px;
+  left: 573px;
+  width: 14px;
+  height: 14px;
+  overflow: hidden;
+}
+.welcome-new-companion {
+  position: absolute;
+  top: 159px;
+  left: 251px;
+  font-family: var(--font-neucha);
+  color: var(--color-darkslategray);
+  display: inline-block;
+  width: 653px;
+  height: 169px;
+}
+.need-help {
+  top: 729px;
+  left: 550px;
+  font-size: var(--font-size-xl);
+  text-align: left;
+  display: inline-block;
+  width: 101px;
+}
+.image,
+.need-help,
+.quit {
+  position: absolute;
+}
+.quit {
+  top: 820px;
+  left: 599px;
+  font-size: var(--font-size-sm);
+  display: inline-block;
+  width: 29px;
+}
+.image {
+  top: 19px;
+  left: 46px;
+  width: 111px;
+  height: 55px;
+  overflow: hidden;
+}
+.letsgopets {
+  position: absolute;
+  top: 32px;
+  left: -1px;
+  font-size: var(--font-size-30xl);
+  line-height: 60px;
+  font-family: var(--font-neucha);
+  color: var(--color-black);
+  display: inline-block;
+  width: 391px;
+  height: 32px;
+}
+.pet-1-icon {
+  position: absolute;
+  top: 16px;
+  left: 24px;
+  width: 65px;
+  height: 63px;
+  object-fit: cover;
+}
+.contact-us-on {
+  position: absolute;
+  top: 767px;
+  left: 417px;
+  font-size: var(--font-size-sm);
+  display: inline-block;
+  width: 361px;
+  height: 30px;
+}
+.great-whats-your {
+  position: absolute;
+  top: 275px;
+  left: 346px;
+  font-family: var(--font-ubuntu-condensed);
+  color: var(--color-black);
+}
+.frame-child,
+.frame-inner {
+  position: absolute;
+  top: 397px;
+  left: 356px;
+  background-color: var(--color-white);
+  width: 443px;
+  height: 158px;
+}
+.frame-inner {
+  top: 495px;
+}
+.first-name,
+.last-name {
+  position: absolute;
+  top: 411px;
+  left: 346px;
+  font-size: var(--font-size-mini);
+  font-family: var(--font-livvic);
+  color: var(--color-black);
+  display: inline-block;
+  width: 115px;
+  height: 25px;
+}
+.last-name {
+  top: 509px;
+}
+.frame-child1,
+.frame-child2,
+.rectangle-div {
+  position: absolute;
+  top: 444px;
+  left: 366px;
+  background-color: var(--color-gainsboro);
+  width: 412px;
+  height: 21px;
+}
+.frame-child1,
+.frame-child2 {
+  top: 537px;
+  left: 367px;
+}
+.frame-child2 {
+  top: 613px;
+  left: 677px;
+  background-color: var(--color-seagreen);
+  width: 122px;
+  height: 46px;
+  cursor: pointer;
+}
+.frame-inner {
+  top: 646px;
+  left: 677px;
+  background-color: #32a679;
+  width: 122px;
+  height: 46px;
+  cursor: pointer;
+}
+.next {
+  position: absolute;
+  top: 655px;
+  left: 716px;
+  font-size: 21px;
+  font-family: var(--font-livvic);
+  text-align: left;
+}
+.frame {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 887px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-27xl);
+  color: var(--color-white);
+  font-family: var(--font-lato);
+}

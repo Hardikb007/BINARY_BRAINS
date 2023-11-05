@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-neucha: Neucha;
+    --font-lato: Lato;
+    --font-open-sans: "Open Sans";
+    --font-oranienbaum: Oranienbaum;
+    --font-livvic: Livvic;
+    --font-ubuntu-condensed: "Ubuntu Condensed";
+  
+    /* font sizes */
+    --font-size-base: 16px;
+    --font-size-11xl-6: 30.6px;
+    --font-size-xl: 20px;
+    --font-size-smi-9: 12.9px;
+    --font-size-xs-1: 11.1px;
+    --font-size-sm: 14px;
+    --font-size-78xl: 97px;
+    --font-size-smi: 13px;
+    --font-size-lg-2: 18.2px;
+    --font-size-mini: 15px;
+    --font-size-16xl: 35px;
+    --font-size-27xl: 46px;
+  
+    /* Colors */
+    --color-white: #fff;
+    --color-black: #000;
+    --color-darkslategray: #425168;
+    --color-dimgray-100: #715c5c;
+    --color-dimgray-200: #515252;
+    --color-gainsboro-100: #e6e4e4;
+    --color-gainsboro-200: #ddd;
+    --color-gainsboro-300: #d9d9d9;
+    --color-royalblue: #0557b9;
+    --color-steelblue: #337ab7;
+    --color-skyblue: #a4e3ff;
+    --color-whitesmoke-100: rgba(244, 244, 244, 0.8);
+    --color-whitesmoke-200: rgba(244, 244, 244, 0.6);
+    --color-mediumseagreen: #00c78c;
+    --color-gray: rgba(0, 0, 0, 0.5);
+    --color-silver: #bfbfbf;
+  
+    /* Border radiuses */
+    --br-8xs: 5px;
+    --br-3xs: 10px;
+    --br-xl: 20px;
+    --br-2xs: 11px;
+    --br-9xs: 4px;
+  }
+  

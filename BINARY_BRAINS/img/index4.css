@@ -1,0 +1,270 @@
+.rectangle {
+    position: absolute;
+    top: 0;
+    left: 0;
+    box-shadow: 0 2px 3px rgba(0, 0, 0, 0.3);
+    width: 1200px;
+    height: 95px;
+  }
+  .rectangle1,
+  .rectangle11 {
+    position: absolute;
+    border-radius: var(--br-8xs);
+  }
+  .rectangle1 {
+    top: 248px;
+    left: 313px;
+    background-color: #ebf1fa;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.18);
+    width: 540px;
+    height: 454px;
+  }
+  .rectangle11 {
+    top: 338px;
+    left: 333px;
+    background-color: var(--color-white);
+    width: 230px;
+    height: 307px;
+  }
+  .dog-1-icon {
+    position: absolute;
+    top: 500px;
+    left: 488px;
+    width: 74px;
+    height: 95px;
+    object-fit: cover;
+  }
+  .rectangle2 {
+    position: absolute;
+    top: 600px;
+    left: 340px;
+    border-radius: var(--br-8xs);
+    background-color: var(--color-mediumseagreen);
+    width: 210px;
+    height: 39px;
+    cursor: pointer;
+  }
+  .man-1-icon {
+    position: absolute;
+    top: 434px;
+    left: 387px;
+    width: 121px;
+    height: 161px;
+    object-fit: cover;
+  }
+  .rectangle21 {
+    position: absolute;
+    top: 342px;
+    left: 610px;
+    border-radius: var(--br-8xs);
+    background-color: var(--color-white);
+    width: 230px;
+    height: 307px;
+  }
+  .cat-1-icon,
+  .woman-1-icon {
+    position: absolute;
+    top: 444px;
+    left: 650px;
+    width: 102px;
+    height: 151px;
+    object-fit: cover;
+  }
+  .cat-1-icon {
+    top: 501px;
+    left: 736px;
+    width: 72px;
+    height: 94px;
+  }
+  .rectangle3 {
+    position: absolute;
+    top: 600px;
+    left: 620px;
+    border-radius: var(--br-8xs);
+    background-color: var(--color-mediumseagreen);
+    width: 210px;
+    height: 39px;
+    cursor: pointer;
+  }
+  .step-into-a {
+    top: 163px;
+    left: 276px;
+    font-size: 46px;
+    font-family: var(--font-neucha);
+    width: 653px;
+    height: 169px;
+  }
+  .first-tell-us,
+  .my-pet-would,
+  .step-into-a,
+  .we-have-two {
+    position: absolute;
+    color: var(--color-darkslategray);
+    display: inline-block;
+  }
+  .first-tell-us {
+    top: 255px;
+    left: 360px;
+    font-size: 25px;
+    text-align: left;
+    width: 368px;
+  }
+  .my-pet-would,
+  .we-have-two {
+    line-height: 20.8px;
+  }
+  .we-have-two {
+    top: 301px;
+    left: 360px;
+    text-align: left;
+    width: 343px;
+  }
+  .my-pet-would {
+    top: 352px;
+    left: 390px;
+    width: 170px;
+  }
+  .i-would-love,
+  .im-an-owner {
+    position: absolute;
+    top: 607px;
+    left: 402px;
+    display: inline-block;
+    width: 86px;
+  }
+  .i-would-love {
+    top: 352px;
+    left: 636px;
+    font-size: 16px;
+    line-height: 20.8px;
+    color: var(--color-darkslategray);
+    width: 178px;
+  }
+  .im-a-borrower,
+  .need-help {
+    display: inline-block;
+    width: 101px;
+  }
+  .im-a-borrower {
+    position: absolute;
+    top: 610px;
+    left: 671px;
+  }
+  .need-help {
+    top: 729px;
+    left: 550px;
+    font-size: var(--font-size-xl);
+    text-align: left;
+  }
+  .image,
+  .need-help,
+  .quit {
+    position: absolute;
+  }
+  .quit {
+    top: 820px;
+    left: 599px;
+    font-size: var(--font-size-sm);
+    display: inline-block;
+    width: 29px;
+  }
+  .image {
+    top: 19px;
+    left: 46px;
+    width: 111px;
+    height: 55px;
+    overflow: hidden;
+  }
+  .letsgopets {
+    position: absolute;
+    top: 32px;
+    left: -1px;
+    font-size: 49px;
+    line-height: 60px;
+    font-family: var(--font-neucha);
+    color: #000;
+    display: inline-block;
+    width: 391px;
+    height: 32px;
+  }
+  .pet-1-icon {
+    position: absolute;
+    top: 16px;
+    left: 24px;
+    width: 65px;
+    height: 63px;
+    object-fit: cover;
+  }
+  .contact-us-on {
+    position: absolute;
+    top: 767px;
+    left: 417px;
+    font-size: var(--font-size-sm);
+    display: inline-block;
+    width: 361px;
+    height: 30px;
+  }
+  .rectangle4 {
+    position: absolute;
+    top: 721px;
+    left: 0;
+    background-color: var(--color-darkslategray);
+    width: 1200px;
+    height: 169px;
+  }
+  .rectangle5 {
+    position: absolute;
+    top: 806px;
+    left: 557px;
+    border-radius: var(--br-8xs);
+    background-color: #f52e45;
+    width: 88px;
+    height: 35px;
+    cursor: pointer;
+  }
+  .frame-icon {
+    position: absolute;
+    top: 818px;
+    left: 574px;
+    width: 14px;
+    height: 14px;
+    overflow: hidden;
+  }
+  .contact-us-on1,
+  .need-help1,
+  .quit1 {
+    position: absolute;
+    display: inline-block;
+  }
+  .need-help1 {
+    top: 725px;
+    left: 551px;
+    font-size: var(--font-size-xl);
+    text-align: left;
+    width: 101px;
+  }
+  .contact-us-on1,
+  .quit1 {
+    top: 816px;
+    left: 600px;
+    font-size: var(--font-size-sm);
+    width: 29px;
+  }
+  .contact-us-on1 {
+    top: 763px;
+    left: 418px;
+    width: 361px;
+    height: 30px;
+  }
+  .frame1 {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 887px;
+    overflow: hidden;
+    text-align: center;
+    font-size: var(--font-size-mini);
+    color: var(--color-white);
+    font-family: var(--font-lato);
+  }
+  

@@ -1,0 +1,126 @@
+.rectangle {
+    position: absolute;
+    top: 0;
+    left: 0;
+    box-shadow: 0 2px 3px rgba(0, 0, 0, 0.3);
+    width: 1200px;
+    height: 95px;
+  }
+  .frame-child {
+    position: absolute;
+    top: -6px;
+    left: 834px;
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+  }
+  .apple-id,
+  .sign-in {
+    position: absolute;
+    font-weight: 800;
+  }
+  .apple-id {
+    top: 44px;
+    left: 18px;
+    font-size: 38px;
+  }
+  .sign-in {
+    top: 19px;
+    left: 1066px;
+    color: var(--color-gainsboro);
+  }
+  .frame-inner,
+  .frame-item {
+    position: absolute;
+    top: 56px;
+    left: 20px;
+    width: 1154px;
+    height: 6px;
+  }
+  .frame-inner {
+    top: 176px;
+    left: 543px;
+    background-color: var(--color-white);
+    border: 1px solid var(--color-black);
+    box-sizing: border-box;
+    width: 114px;
+    height: 104px;
+  }
+  .vector-icon {
+    position: absolute;
+    height: 25.86%;
+    width: 45.5%;
+    top: 1.77%;
+    right: 20.75%;
+    bottom: 65.36%;
+    left: 15.89%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .usee-your-apple {
+    position: absolute;
+    top: 308px;
+    left: 442px;
+    font-weight: 800;
+    color: #7d6a6a;
+  }
+  .rectangle-div {
+    position: absolute;
+    top: 398px;
+    left: 194px;
+    background-color: var(--color-white);
+    border: 1px solid var(--color-black);
+    box-sizing: border-box;
+    width: 844px;
+    height: 102px;
+  }
+  .vector-icon1 {
+    position: absolute;
+    height: 1.24%;
+    width: 1.17%;
+    top: 0.23%;
+    right: 98.79%;
+    bottom: 98.53%;
+    left: 0.04%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .email-or-phone,
+  .forgot-password {
+    position: absolute;
+    top: 428px;
+    left: 225px;
+    font-size: 35px;
+  }
+  .forgot-password {
+    top: 528px;
+    left: 480px;
+    font-size: 30px;
+    color: #1877f2;
+  }
+  .vector-icon3 {
+    position: absolute;
+    height: 2.94%;
+    width: 8.08%;
+    top: 49.25%;
+    right: 2.5%;
+    bottom: 47.01%;
+    left: 69.42%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .frame {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 887px;
+    overflow: hidden;
+    text-align: center;
+    font-size: var(--font-size-8xl);
+    color: var(--color-black);
+    font-family: var(--font-lato);
+  }
+  

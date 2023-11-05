@@ -1,58 +1,75 @@
-.frame,
 .frame1,
+.rectangle1 {
+  position: absolute;
+  width: 1200px;
+}
+.rectangle1 {
+  top: 808px;
+  left: 0;
+  background-color: var(--color-darkslategray);
+  height: 169px;
+}
+.frame1 {
+  top: -174px;
+  left: -1px;
+  height: 977px;
+  overflow: hidden;
+}
 .frame2,
-.rectangle {
+.frame4,
+.frame5,
+.rectangle2 {
   position: absolute;
   top: 467px;
   left: 0;
   width: 51px;
   height: 51px;
 }
-.frame,
-.frame1,
-.frame2 {
+.frame2,
+.frame4,
+.frame5 {
   top: -178px;
   left: 284px;
   height: 518px;
   overflow: hidden;
 }
-.frame1,
-.frame2 {
+.frame4,
+.frame5 {
   left: 351px;
 }
-.frame2 {
+.frame5 {
   left: 419px;
 }
-.frame4,
-.rectangle3 {
+.frame6,
+.rectangle5 {
   position: absolute;
   width: 34px;
 }
-.rectangle3 {
+.rectangle5 {
   top: 543px;
   left: 0;
   background-color: var(--color-white);
   height: 11px;
 }
-.frame4 {
+.frame6 {
   top: -178px;
   left: 368px;
   height: 554px;
   overflow: hidden;
 }
-.rectangle4 {
+.rectangle6 {
   top: 562px;
   left: 0;
   border-radius: var(--br-6xl);
   height: 48px;
 }
-.frame5,
+.frame7,
 .rectangle34,
-.rectangle4 {
+.rectangle6 {
   position: absolute;
   width: 460px;
 }
-.frame5 {
+.frame7 {
   top: -178px;
   left: 155px;
   height: 610px;
@@ -62,22 +79,22 @@
   top: 562px;
   left: 0;
   border-radius: var(--br-xl);
-  background-color: var(--color-whitesmoke-100);
+  background-color: var(--color-whitesmoke);
   height: 48px;
 }
-.email-or-phone,
-.frame7 {
+.email-or-phone1,
+.frame9 {
   position: absolute;
-  width: 141px;
+  width: 250px;
 }
-.email-or-phone {
+.email-or-phone1 {
   top: 575px;
   left: 0;
   text-transform: uppercase;
   display: inline-block;
   height: 26px;
 }
-.frame7 {
+.frame9 {
   top: -178px;
   left: 182px;
   height: 601px;
@@ -87,18 +104,18 @@
   color: var(--color-black);
   font-family: var(--font-abel);
 }
-.frame8,
-.rectangle5 {
+.frame10,
+.rectangle7 {
   position: absolute;
   width: 460px;
 }
-.rectangle5 {
+.rectangle7 {
   top: 630px;
   left: 0;
   border-radius: var(--br-6xl);
   height: 48px;
 }
-.frame8 {
+.frame10 {
   top: -178px;
   left: 155px;
   height: 678px;
@@ -112,7 +129,7 @@
 .rectangle51 {
   top: 630px;
   border-radius: var(--br-xl);
-  background-color: var(--color-whitesmoke-100);
+  background-color: var(--color-whitesmoke);
   width: 460px;
   height: 48px;
 }
@@ -121,14 +138,14 @@
   text-transform: uppercase;
 }
 .frame-icon,
-.frame10 {
+.frame12 {
   position: absolute;
   overflow: hidden;
 }
-.frame10 {
+.frame12 {
   top: -178px;
   left: 182px;
-  width: 92px;
+  width: 150px;
   height: 669px;
   text-align: left;
   font-size: 20.83px;
@@ -139,193 +156,193 @@
   top: 0;
   left: 573px;
   width: 26px;
-  height: 662px;
+  height: 480px;
 }
-.frame11,
-.rectangle6 {
+.frame13,
+.rectangle8 {
   position: absolute;
   width: 235px;
 }
-.rectangle6 {
+.rectangle8 {
   top: 710px;
   left: 0;
   border-radius: var(--br-11xl);
   background-color: #28b498;
   height: 54px;
 }
-.frame11 {
+.frame13 {
   top: -178px;
   left: 268px;
   height: 764px;
   overflow: hidden;
 }
-.frame12,
-.rectangle7 {
+.frame14,
+.rectangle9 {
   position: absolute;
   top: 178px;
   left: 0;
   width: 430px;
   height: 800px;
 }
-.frame12 {
+.frame14 {
   top: -178px;
   left: 770px;
   height: 978px;
   overflow: hidden;
 }
-.frame13,
-.rectangle8 {
+.frame15,
+.rectangle10 {
   position: absolute;
   width: 156px;
 }
-.rectangle8 {
+.rectangle10 {
   top: 387px;
   left: 0;
   background-color: var(--color-gray-100);
   height: 123px;
 }
-.frame13 {
+.frame15 {
   top: -178px;
   left: 547px;
   height: 510px;
   overflow: hidden;
 }
-.frame14,
-.rectangle9 {
+.frame16,
+.rectangle11 {
   position: absolute;
   width: 250px;
 }
-.rectangle9 {
+.rectangle11 {
   top: 282px;
   left: 0;
   background-color: var(--color-gray-100);
   height: 250px;
 }
-.frame14 {
+.frame16 {
   top: -178px;
   left: -48px;
   height: 532px;
   overflow: hidden;
 }
-.frame15,
-.rectangle10 {
+.frame17,
+.rectangle12 {
   position: absolute;
   width: 180px;
 }
-.rectangle10 {
+.rectangle12 {
   top: 702.7px;
   left: 0;
   background-color: var(--color-gray-100);
   height: 249.7px;
 }
-.frame15 {
+.frame17 {
   top: -178px;
   left: -82.7px;
   height: 952.3px;
   overflow: hidden;
 }
-.frame16,
-.rectangle11 {
+.frame18,
+.rectangle13 {
   position: absolute;
   top: 703px;
   left: 0;
   width: 249px;
   height: 250px;
 }
-.frame16 {
+.frame18 {
   top: -178px;
   left: 97px;
   height: 953px;
   overflow: hidden;
 }
-.frame17,
-.rectangle12 {
+.frame19,
+.rectangle14 {
   position: absolute;
   width: 164px;
 }
-.rectangle12 {
+.rectangle14 {
   top: 637px;
   left: 0;
   background-color: var(--color-gray-100);
   height: 111px;
 }
-.frame17 {
+.frame19 {
   top: -178px;
   left: -57px;
   height: 748px;
   overflow: hidden;
 }
-.frame18,
-.rectangle13 {
+.frame20,
+.rectangle15 {
   position: absolute;
   width: 250px;
 }
-.rectangle13 {
+.rectangle15 {
   top: 592px;
   left: 0;
   background-color: var(--color-gray-100);
   height: 250px;
 }
-.frame18 {
+.frame20 {
   top: -178px;
   left: 902px;
   height: 842px;
   overflow: hidden;
 }
-.frame19,
-.rectangle14 {
+.frame21,
+.rectangle16 {
   position: absolute;
   width: 160px;
 }
-.rectangle14 {
+.rectangle16 {
   top: 212.5px;
   left: 0;
   background-color: var(--color-gray-100);
   height: 205.1px;
 }
-.frame19 {
+.frame21 {
   top: -178px;
   left: 569.5px;
   height: 417.5px;
   overflow: hidden;
 }
-.frame20,
-.rectangle15 {
+.frame22,
+.rectangle17 {
   position: absolute;
   top: 212px;
   left: 0;
   width: 205px;
   height: 205px;
 }
-.frame20 {
+.frame22 {
   top: -178px;
   left: 729px;
   height: 417px;
   overflow: hidden;
 }
-.frame21,
-.rectangle16 {
+.frame23,
+.rectangle18 {
   position: absolute;
   width: 140px;
 }
-.rectangle16 {
+.rectangle18 {
   top: 806px;
   left: 0;
   background-color: var(--color-gray-100);
   height: 140px;
 }
-.frame21 {
+.frame23 {
   top: -178px;
   left: 1095px;
   height: 946px;
   overflow: hidden;
 }
-.frame22,
-.rectangle17 {
+.frame24,
+.rectangle19 {
   position: absolute;
   width: 223px;
 }
-.rectangle17 {
+.rectangle19 {
   top: 671px;
   left: 0;
   border-radius: var(--br-11xl);
@@ -333,7 +350,7 @@
   box-shadow: 0 12px 24px rgba(34, 51, 49, 0.13);
   height: 54px;
 }
-.frame22 {
+.frame24 {
   top: -178px;
   left: 874px;
   height: 725px;
@@ -346,7 +363,7 @@
   display: inline-block;
   width: 251px;
 }
-.frame23 {
+.frame25 {
   position: absolute;
   top: -178px;
   left: 260px;
@@ -354,9 +371,9 @@
   height: 453px;
   overflow: hidden;
   font-size: var(--font-size-base);
-  color: var(--color-dimgray);
+  color: var(--color-dimgray-100);
 }
-.frame24,
+.frame26,
 .or {
   position: absolute;
   width: 18px;
@@ -367,33 +384,33 @@
   text-transform: uppercase;
   display: inline-block;
 }
-.frame24 {
+.frame26 {
   top: -178px;
   left: 376px;
   height: 555px;
   overflow: hidden;
   text-align: left;
   font-size: 10px;
-  color: var(--color-dimgray);
+  color: var(--color-dimgray-100);
 }
-.frame25,
-.sign-in {
+.frame27,
+.sign-in1 {
   position: absolute;
   width: 49px;
 }
-.sign-in {
+.sign-in1 {
   top: 729px;
   left: 0;
   line-height: 16px;
   display: inline-block;
 }
-.frame25 {
+.frame27 {
   top: -178px;
   left: 361px;
   height: 745px;
   overflow: hidden;
 }
-.frame26,
+.frame28,
 .new-here {
   position: absolute;
   width: 257px;
@@ -404,14 +421,14 @@
   line-height: 48px;
   display: inline-block;
 }
-.frame26 {
+.frame28 {
   top: -178px;
   left: 857px;
   height: 535px;
   overflow: hidden;
   font-size: 48px;
 }
-.frame27,
+.frame29,
 .sign-up-and {
   position: absolute;
   width: 329px;
@@ -422,14 +439,14 @@
   line-height: 36px;
   display: inline-block;
 }
-.frame27 {
+.frame29 {
   top: -178px;
   left: 821px;
   height: 647px;
   overflow: hidden;
-  font-size: 15px;
+  font-size: var(--font-size-mini);
 }
-.frame28,
+.frame30,
 .sign-up {
   position: absolute;
   width: 56px;
@@ -440,26 +457,26 @@
   line-height: 14px;
   display: inline-block;
 }
-.frame28 {
+.frame30 {
   top: -178px;
   left: 957px;
   height: 705px;
   overflow: hidden;
   color: #1a1e1d;
 }
-.frame29,
+.frame31,
 .how-would-you {
   position: absolute;
   width: 814px;
 }
 .how-would-you {
-  top: 366px;
+  top: 350px;
   left: 0;
   line-height: 60px;
   display: inline-block;
   height: 48px;
 }
-.frame29 {
+.frame31 {
   top: -178px;
   left: 12px;
   height: 414px;
@@ -474,20 +491,20 @@
   top: 0;
   left: 260px;
   width: 58.4px;
-  height: 350px;
+  height: 380px;
   overflow: hidden;
 }
 .frame-icon2 {
   left: 346px;
   width: 50px;
-  height: 350px;
+  height: 380px;
 }
 .image-3-icon {
   position: absolute;
   top: 0;
   left: 720px;
-  width: 488px;
-  height: 868px;
+  width: 479px;
+  height: 635px;
   object-fit: cover;
 }
 .frame-icon3 {
@@ -495,36 +512,20 @@
   top: 0;
   left: 423px;
   width: 47px;
-  height: 350px;
+  height: 380px;
   overflow: hidden;
 }
-.rectangle18 {
-  top: 808px;
-  background-color: var(--color-darkslategray);
-  width: 1200px;
-  height: 169px;
-}
-.frame30,
-.rectangle18,
-.rectangle19 {
+.rectangle20 {
   position: absolute;
-  left: 0;
-}
-.frame30 {
-  top: -178px;
-  width: 1200px;
-  height: 977px;
-  overflow: hidden;
-}
-.rectangle19 {
   top: 900px;
+  left: 0;
   border-radius: var(--br-8xs);
-  background-color: #f52e45;
+  background-color: var(--color-crimson);
   width: 88px;
   height: 35px;
 }
 .frame-icon4,
-.frame31 {
+.frame32 {
   position: absolute;
   top: -178px;
   left: 558px;
@@ -535,10 +536,10 @@
 .frame-icon4 {
   top: 0;
   left: 575px;
-  width: 18px;
-  height: 625px;
+  width: 14px;
+  height: 1480 px;
 }
-.frame32,
+.frame33,
 .need-help {
   position: absolute;
   width: 101px;
@@ -548,7 +549,7 @@
   left: 0;
   display: inline-block;
 }
-.frame32 {
+.frame33 {
   top: -178px;
   left: 552px;
   height: 843px;
@@ -557,7 +558,7 @@
   font-size: var(--font-size-xl);
   font-family: var(--font-lato);
 }
-.frame33,
+.frame34,
 .quit {
   position: absolute;
   width: 29px;
@@ -567,7 +568,7 @@
   left: 0;
   display: inline-block;
 }
-.frame33 {
+.frame34 {
   top: -178px;
   left: 601px;
   height: 927px;
@@ -575,7 +576,7 @@
   font-family: var(--font-lato);
 }
 .contact-us-on,
-.frame34 {
+.frame35 {
   position: absolute;
   width: 361px;
 }
@@ -585,7 +586,7 @@
   display: inline-block;
   height: 30px;
 }
-.frame34 {
+.frame35 {
   top: -178px;
   left: 419px;
   height: 887px;
